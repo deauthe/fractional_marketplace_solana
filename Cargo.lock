@@ -869,6 +869,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "deauth-fractional-marketplace"
+version = "0.1.0"
+dependencies = [
+ "anchor-lang",
+]
+
+[[package]]
 name = "deauth-fractional-nft"
 version = "0.1.0"
 dependencies = [

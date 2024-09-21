@@ -5,6 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
+deauth-fractional-marketplace = "DLjJEsDLtUiJtMuHjurKhyba1YehvGNWXXWdM7jK3cBi"
 deauth_fractional_nft = "82547nhsM6oQdyDdNNiHvZEnZHRbzVfq9CKb2jUYaqaS"
 
 [registry]

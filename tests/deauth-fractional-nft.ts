@@ -13,8 +13,6 @@ describe("deauth-fractional-nft", () => {
   const nft = anchor.web3.Keypair.generate();
   const business = anchor.web3.Keypair.generate();
 
-  await program.requestAirdrop(user.publicKey, 1000000000);
-
   console.log(
     "user:",
     user.publicKey,
